@@ -1,0 +1,7 @@
+streamlit
+pandas
+kagglehub
+plotly
+scikit-learn
+pyarrow
+numpy<2.0
