@@ -1,3 +1,5 @@
+**Pour accéder à l'application : https://cinemaaa.streamlit.app/**
+
 Ceci est une application web interactive développée avec Streamlit qui permet d'explorer, d'analyser et de rechercher parmi des centaines de milliers de films issus du dataset TMDB.
 
 **Fonctionnalités principales**
