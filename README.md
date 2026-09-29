@@ -1,4 +1,4 @@
-POK est une application web interactive développée avec Streamlit qui permet d'explorer, d'analyser et de rechercher parmi des centaines de milliers de films issus du dataset TMDB.
+Ceci est une application web interactive développée avec Streamlit qui permet d'explorer, d'analyser et de rechercher parmi des centaines de milliers de films issus du dataset TMDB.
 
 **Fonctionnalités principales**
 L'application fonctionne avec une barre latérale de filtrage (période temporelle et genres) et 4 onglets principaux :
